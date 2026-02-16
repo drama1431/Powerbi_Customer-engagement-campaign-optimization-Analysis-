@@ -26,5 +26,9 @@ This Power BI dashboard analyzes customer engagement and campaign performance to
 - Excel/CSV Dataset
 
 ## Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+<img width="1374" height="819" alt="Dashboard of campaign" src="https://github.com/user-attachments/assets/31552c51-cde6-43bb-a752-2012ecd05b25" />
+
+**#Kaggle **
+https://www.kaggle.com/code/neethu2190/superstore-marketing-campaign-dataset
+
 
